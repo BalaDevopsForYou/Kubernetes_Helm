@@ -1,0 +1,5 @@
+apiVersion: v2
+name: mynginxchart
+description: A Helm chart for NGINX
+version: 0.1.0
+
